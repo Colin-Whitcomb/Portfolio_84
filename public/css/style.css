@@ -1,6 +1,13 @@
 body {
-    background-image: url('../img/background_pic.jpg');
+    background-image: url('../img/TreeFog.jpg');
+    background-repeat: no-repeat;
     width: 100%;
+    font-size: 18px;
+    line-height: 150%;
+}
+
+#frontText {
+    /* color: rgb(232, 231, 231); */
 }
 
 #frontBtn {
@@ -8,9 +15,13 @@ body {
     color: white;
 }
 
-/* .frontDiv{
-    background: linear-gradient(rgb(195, 195, 196), rgb(182, 97, 32));
-} */
+.frontDiv{
+   margin-top: 420px;
+}
+
+#homePage{
+    background-image: url('../img/pexels-zhang-kaiyv-842654.jpg');
+}
 
 
 /* background: -moz-linear-gradient(

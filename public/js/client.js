@@ -1,4 +1,5 @@
 $(document).ready(function () {
+    $('.parallax').parallax();
 
     $("#frontBtn").on("click", () => {
         console.log("I was clicked!");

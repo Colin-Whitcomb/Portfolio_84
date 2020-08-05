@@ -10,7 +10,7 @@ var router = express.Router();
 // Loads the Home page
 router.get("/", function (req, res) {
         
-        res.render("index");
+        res.sendFile("../public/html/index.html");
     });
 
     router.get("/home", function (req, res) {
