@@ -1,14 +1,22 @@
 body {
-    background-image: url('../img/TreeFog.jpg');
+    /* background-image: url('../img/TreeFog.jpg'); */
     background-repeat: no-repeat;
     width: 100%;
     font-size: 18px;
     line-height: 150%;
 }
 
-#frontText {
-    /* color: rgb(232, 231, 231); */
+#landingPage {
+    background-image: url('../img/TreeFog.jpg');
 }
+
+/* #homePage { */
+    /* background-image: url('../img/pexels-zhang-kaiyv-842654.jpg'); */
+/* } */
+
+/* #frontText {
+    /* color: rgb(232, 231, 231); */
+/* } */ 
 
 #frontBtn {
     background-color: rgb(7, 7, 7);
@@ -16,7 +24,7 @@ body {
 }
 
 .frontDiv{
-   margin-top: 420px;
+   margin-top: 360px;
 }
 
 #homePage{
