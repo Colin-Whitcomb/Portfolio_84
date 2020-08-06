@@ -48,6 +48,10 @@ body {
     padding: 12px;
 }
 
+#carrie {
+    min-height: 22vh;
+}
+
 
 @media only screen and (max-width: 420px) {
     #profileImg {
