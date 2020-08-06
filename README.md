@@ -3,13 +3,14 @@
 
 <div style="text-align:center">
 
-  <p align="center">
-    <img src="https://media.giphy.com/media/f8Uc1FDPLjoPkdsg34/giphy.gif" width="500" />
-</p>
-
 <h2 align="center">
 Deployed <a href="https://pacific-sea-84511.herokuapp.com/">Site</a>
 </h2>
+
+<p align="center">
+    <img src="https://media.giphy.com/media/f8Uc1FDPLjoPkdsg34/giphy.gif" width="500" />
+</p>
+
 
 ## Summary & Processs
 
