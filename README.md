@@ -8,7 +8,7 @@ Deployed <a href="https://pacific-sea-84511.herokuapp.com/">Site</a>
 </h2>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/ZDu3Z4FppPBmRw5Clo/giphy.gif" width="500" />
+    <img src="https://media.giphy.com/media/dC2VvV0FE6L49dsjEc/giphy.gif" width="300"  />
 </p>
 
 
