@@ -23,8 +23,22 @@ body {
     color: white;
 }
 
+#logo {
+    max-height: 5vh;
+}
+
 .frontDiv{
    margin-top: 360px;
+}
+
+.nav-wrapper {
+    background-color: #2E3532 !important;
+    min-height: 5vh;
+  }
+
+.name_brand {
+    background-color: #B48B7D;
+
 }
 
 /* #homePage{
