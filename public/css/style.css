@@ -6,6 +6,10 @@ body {
     line-height: 150%;
 }
 
+.bottom {
+    color: #3E8989;
+}
+
 #landingPage {
     background-image: url('../img/TreeFog.jpg');
 }
