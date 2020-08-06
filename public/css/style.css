@@ -41,6 +41,22 @@ body {
 
 }
 
+#profileImg {
+    max-width: 60%;
+    border-radius: 5%;
+    float: left;
+    padding: 12px;
+}
+
+
+@media only screen and (max-width: 420px) {
+    #profileImg {
+        max-width: 100%;
+        border-radius: 5%;
+        float: left;
+        padding: 12px;
+    }
+}
 /* #homePage{
     background-image: url('../img/pexels-zhang-kaiyv-842654.jpg');
 } */
