@@ -52,6 +52,10 @@ body {
     min-height: 22vh;
 }
 
+#assignments {
+    background-color: #53131E;
+    color: white;
+}
 
 @media only screen and (max-width: 420px) {
     #profileImg {
