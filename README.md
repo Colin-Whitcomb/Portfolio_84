@@ -25,7 +25,7 @@ Short Bio
 
 
 <p align="center">
-    <img src="images/ss11.png" width="300" />
+    <img src="images/ss11.png" width="350" />
 </p>
 
 <h3 align="center">
@@ -33,7 +33,7 @@ Project Cards
 </h3>
 
 <p align="center">
-    <img src="images/ss12.png" width="300" />
+    <img src="images/ss12.png" width="350" />
 </p>
 
 <h3 align="center">
@@ -41,7 +41,7 @@ Contact
 </h3>
 
 <p align="center">
-    <img src="images/ss13.png" width="300" />
+    <img src="images/ss13.png" width="350" />
 </p>
 
 
